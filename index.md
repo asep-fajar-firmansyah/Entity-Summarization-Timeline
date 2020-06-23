@@ -11,6 +11,10 @@ Many researchers have been conducted researches on individual entity to produce 
 
 ## Unsupervised learning
 
+1. RELIN: RELatedness and Informativeness-based centrality for entity summarizatioN
+
+Paper: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.352.7610&rep=rep1&type=pdf
+
 ## Supervised Learning
 
 1. ESA:Entity Summarization Attention 
