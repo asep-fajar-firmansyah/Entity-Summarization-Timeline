@@ -10,10 +10,12 @@ Comparing to document summarization where the data is unstructured and there are
 Many researchers have been conducted researches on individual entity to produce entity summaries[[1]](#1). 
 
 #References
+
 <a id="1">[1]</a> 
 Dijkstra, E. W. (1968). 
 Go to statement considered harmful. 
 Communications of the ACM, 11(3), 147-148.
+
 1. [1] Gunaratna, K., Yazdavar, A. H., Thirunarayan, K., Sheth, A., & Cheng, G. (2017, August). Relatedness-based multi-entity summarization. In IJCAI: proceedings of the conference (Vol. 2017, p. 1060). NIH Public Access.
 2. [2] Wei, D., & Liu, Y. (2019). ESA: Entity Summarization with Attention. arXiv preprint arXiv:1905.10625.
 3. [3] Cheng, G., Tran, T., & Qu, Y. (2011, October). Relin: relatedness and informativeness-based centrality for entity summarization. In International Semantic Web Conference (pp. 114-129). Springer, Berlin, Heidelberg.
