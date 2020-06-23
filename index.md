@@ -7,9 +7,13 @@ It provides a billion triples (RDF data) that are used by many applications to p
 Avoiding information overload on the data consumers [1] and making it more concise and recapitulative [2] are some reasons used by researchers to conduct research on Entity Summarization. 
 Entity summarization is a technique to establish short summary (of) RDF data [2][3] so that users are able to identify the underlying identity quickly [3]. 
 Comparing to document summarization where the data is unstructured and there are many frequent words, entity summarization works on RDF that is structured and without frequent terms. 
-Many researchers have been conducted researches on individual entity to produce entity summaries. 
+Many researchers have been conducted researches on individual entity to produce entity summaries[[1]](#1). 
 
 #References
+<a id="1">[1]</a> 
+Dijkstra, E. W. (1968). 
+Go to statement considered harmful. 
+Communications of the ACM, 11(3), 147-148.
 1. [1] Gunaratna, K., Yazdavar, A. H., Thirunarayan, K., Sheth, A., & Cheng, G. (2017, August). Relatedness-based multi-entity summarization. In IJCAI: proceedings of the conference (Vol. 2017, p. 1060). NIH Public Access.
 2. [2] Wei, D., & Liu, Y. (2019). ESA: Entity Summarization with Attention. arXiv preprint arXiv:1905.10625.
 3. [3] Cheng, G., Tran, T., & Qu, Y. (2011, October). Relin: relatedness and informativeness-based centrality for entity summarization. In International Semantic Web Conference (pp. 114-129). Springer, Berlin, Heidelberg.
