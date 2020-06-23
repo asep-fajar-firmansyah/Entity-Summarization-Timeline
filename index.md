@@ -31,6 +31,10 @@ Paper: https://www.aifb.kit.edu/images/4/43/LinkSUM.pdf
 
 Paper: https://arxiv.org/abs/2005.11992
 
+6. ESLDA: entity summarization using knowledge-based topic modeling
+
+Paper: https://www.aclweb.org/anthology/I17-1032.pdf
+
 ## Supervised Learning
 
 1. ESA:Entity Summarization Attention [[2]](#2)
