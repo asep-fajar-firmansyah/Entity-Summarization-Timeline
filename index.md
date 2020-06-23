@@ -20,7 +20,7 @@ Paper: https://arxiv.org/abs/1905.10625
 
 2. DeepLENS: Deep Learning for Entity Summarization
 
-Code: https://github.com/nju-websoft/DeepLENS
+Code: https://github.com/nju-websoft/DeepLENS \
 Paper: https://arxiv.org/abs/2003.03736
 ## References
 
