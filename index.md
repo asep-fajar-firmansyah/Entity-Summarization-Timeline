@@ -7,9 +7,19 @@ It provides a billion triples (RDF data) that are used by many applications to p
 Avoiding information overload on the data consumers [[1]](#1) and making it more concise and recapitulative [[2]](#2) are some reasons used by researchers to conduct research on Entity Summarization. 
 Entity summarization is a technique to establish short summary (of) RDF data [[2]](#2)[[3]](#3) so that users are able to identify the underlying identity quickly [[3]](#3). 
 Comparing to document summarization where the data is unstructured and there are many frequent words, entity summarization works on RDF that is structured and without frequent terms. 
-Many researchers have been conducted researches on individual entity to produce entity summaries. 
+Many researchers have been conducted researches on individual entity to produce entity summaries. Generally, there are two categories of entity summarization methods, namely, supervised learning and unsupervised learning. 
 
-# References
+## Unsupervised learning
+
+## Supervised Learning
+
+1. ESA:Entity Summarization Attention 
+Code: https://github.com/WeiDongjunGabriel/ESA
+Paper: https://arxiv.org/abs/1905.10625
+2. DeepLENS: Deep Learning for Entity Summarization
+Code: https://github.com/nju-websoft/DeepLENS
+Paper: https://arxiv.org/abs/2003.03736
+## References
 
 <a id="1">[1]</a> 
 Gunaratna, K., Yazdavar, A. H., Thirunarayan, K., Sheth, A., & Cheng, G. (2017, August). 
