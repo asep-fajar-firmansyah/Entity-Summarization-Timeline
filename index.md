@@ -51,10 +51,17 @@ Paper: https://arxiv.org/abs/1905.10625
 Code: https://github.com/nju-websoft/DeepLENS \
 Paper: https://arxiv.org/abs/2003.03736
 
+3. Entity Summarization with User Feedback
+
+Paper: https://link.springer.com/content/pdf/10.1007%2F978-3-030-49461-2.pdf
+
 ## Entity Summarization Dataset
 
-1. ESBM Benchmark 
+### ESBM Benchmark 
 
+#### ESBM Benchmark v.1.1
+
+#### ESBM Benchmark V.1.2
 Paper: https://arxiv.org/pdf/2003.03734.pdf
 
 ## References
