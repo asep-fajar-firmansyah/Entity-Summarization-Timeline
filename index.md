@@ -11,7 +11,7 @@ Many researchers have been conducted researches on individual entity to produce 
 
 ## Unsupervised learning
 
-1. RELIN: RELatedness and Informativeness-based centrality for entity summarizatioN
+1. RELIN: RELatedness and Informativeness-based centrality for entity summarizatioN [[3]](#3)
 
 Paper: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.352.7610&rep=rep1&type=pdf
 
@@ -23,9 +23,13 @@ Paper: https://www.ijcai.org/Proceedings/2017/147
 
 Paper: https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9562/9233
 
+4. Linksum: Using link analysis to summarize entity data [[6]](#6)
+
+Paper: https://www.aifb.kit.edu/images/4/43/LinkSUM.pdf
+
 ## Supervised Learning
 
-1. ESA:Entity Summarization Attention 
+1. ESA:Entity Summarization Attention [[2]](#2)
 
 Code: https://github.com/WeiDongjunGabriel/ESA \
 Paper: https://arxiv.org/abs/1905.10625
