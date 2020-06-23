@@ -14,9 +14,12 @@ Many researchers have been conducted researches on individual entity to produce 
 ## Supervised Learning
 
 1. ESA:Entity Summarization Attention 
+
 Code: https://github.com/WeiDongjunGabriel/ESA
 Paper: https://arxiv.org/abs/1905.10625
+
 2. DeepLENS: Deep Learning for Entity Summarization
+
 Code: https://github.com/nju-websoft/DeepLENS
 Paper: https://arxiv.org/abs/2003.03736
 ## References
