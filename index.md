@@ -9,7 +9,7 @@ Entity summarization is a technique to establish short summary (of) RDF data [[2
 Comparing to document summarization where the data is unstructured and there are many frequent words, entity summarization works on RDF that is structured and without frequent terms. 
 Many researchers have been conducted researches on individual entity to produce entity summaries. 
 
-#References
+# References
 
 <a id="1">[1]</a> 
 Gunaratna, K., Yazdavar, A. H., Thirunarayan, K., Sheth, A., & Cheng, G. (2017, August). 
