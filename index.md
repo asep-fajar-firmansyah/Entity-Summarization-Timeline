@@ -35,6 +35,10 @@ Paper: https://arxiv.org/abs/2005.11992
 
 Paper: https://www.aclweb.org/anthology/I17-1032.pdf
 
+5. DIVERSUM: Towards diversified summarisation of entities in knowledge graphs
+
+Paper: 
+
 ## Supervised Learning
 
 1. ESA:Entity Summarization Attention [[2]](#2)
@@ -46,6 +50,12 @@ Paper: https://arxiv.org/abs/1905.10625
 
 Code: https://github.com/nju-websoft/DeepLENS \
 Paper: https://arxiv.org/abs/2003.03736
+
+## Entity Summarization Dataset
+
+1. ESBM Benchmark 
+
+Paper: https://arxiv.org/pdf/2003.03734.pdf
 
 ## References
 
