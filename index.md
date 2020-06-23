@@ -27,6 +27,10 @@ Paper: https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9562/9233
 
 Paper: https://www.aifb.kit.edu/images/4/43/LinkSUM.pdf
 
+5. MPSUM: Entity Summarization with Predicate-based Matching
+
+Paper: https://arxiv.org/abs/2005.11992
+
 ## Supervised Learning
 
 1. ESA:Entity Summarization Attention [[2]](#2)
