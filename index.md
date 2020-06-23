@@ -8,3 +8,12 @@ Avoiding information overload on the data consumers [1] and making it more conci
 Entity summarization is a technique to establish short summary (of) RDF data [2][3] so that users are able to identify the underlying identity quickly [3]. 
 Comparing to document summarization where the data is unstructured and there are many frequent words, entity summarization works on RDF that is structured and without frequent terms. 
 Many researchers have been conducted researches on individual entity to produce entity summaries. 
+
+References
+[1] Gunaratna, K., Yazdavar, A. H., Thirunarayan, K., Sheth, A., & Cheng, G. (2017, August). Relatedness-based multi-entity summarization. In IJCAI: proceedings of the conference (Vol. 2017, p. 1060). NIH Public Access.
+[2] Wei, D., & Liu, Y. (2019). ESA: Entity Summarization with Attention. arXiv preprint arXiv:1905.10625.
+[3] Cheng, G., Tran, T., & Qu, Y. (2011, October). Relin: relatedness and informativeness-based centrality for entity summarization. In International Semantic Web Conference (pp. 114-129). Springer, Berlin, Heidelberg.
+[4] Liu, Q., Cheng, G., Gunaratna, K., & Qu, Y. (2019). Entity Summarization: State of the Art and Future Challenges. arXiv preprint arXiv:1910.08252.
+[5] Gunaratna, K., Thirunarayan, K., & Sheth, A. (2015, February). FACES: diversity-aware entity summarization using incremental hierarchical conceptual clustering. In Twenty-Ninth AAAI Conference on Artificial Intelligence.
+[6] Thalhammer, A., Lasierra, N., & Rettinger, A. (2016, June). Linksum: using link analysis to summarize entity data. In International Conference on Web Engineering (pp. 244-261). Springer, Cham.
+
