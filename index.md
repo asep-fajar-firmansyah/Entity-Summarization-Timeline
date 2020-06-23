@@ -19,7 +19,7 @@ Paper: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.352.7610&rep=rep
 
 Paper: https://www.ijcai.org/Proceedings/2017/147
 
-3. FACES: diversity-aware en- tity summarization using incremental hierarchical conceptual clustering
+3. FACES: diversity-aware entity summarization using incremental hierarchical conceptual clustering
 
 Paper: https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9562/9233
 
