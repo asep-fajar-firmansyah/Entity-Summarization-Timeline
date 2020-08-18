@@ -10,9 +10,10 @@ Comparing to document summarization where the data is unstructured and there are
 Many researchers have been conducted researches on individual entity to produce entity summaries. Generally, there are two categories of entity summarization methods, namely, supervised learning and unsupervised learning. 
 
 ## Survey
-2019
-Entity Summarization: State of the Art and Future Challenges
-Paper: https://arxiv.org/abs/1910.08252
+**2019** \
+
+Entity Summarization: State of the Art and Future Challenges \
+Paper: https://arxiv.org/abs/1910.08252 \
 
 ## Unsupervised learning
 
@@ -62,21 +63,21 @@ Paper: https://arxiv.org/abs/2005.11992
 
 ESA:Entity Summarization Attention [[2]](#2)
 Code: https://github.com/WeiDongjunGabriel/ESA \
-Paper: https://arxiv.org/abs/1905.10625
+Paper: https://arxiv.org/abs/1905.10625 \
 
 2020
 
-DeepLENS: Deep Learning for Entity Summarization
+DeepLENS: Deep Learning for Entity Summarization \
 Code: https://github.com/nju-websoft/DeepLENS \
-Paper: https://arxiv.org/abs/2003.03736
+Paper: https://arxiv.org/abs/2003.03736 \
 
-Entity Summarization with User Feedback
-Code: https://github.com/nju-websoft/DRESSED
-Paper: https://link.springer.com/content/pdf/10.1007%2F978-3-030-49461-2.pdf
+Entity Summarization with User Feedback \
+Code: https://github.com/nju-websoft/DRESSED \
+Paper: https://link.springer.com/content/pdf/10.1007%2F978-3-030-49461-2.pdf \
 
 ## Others 
-Semantics-based Entity Summarization
-Paper: https://kalpagunaratna.github.io/swsa_files/swsa_short_paper-Kalpa.pdf
+Semantics-based Entity Summarization \
+Paper: https://kalpagunaratna.github.io/swsa_files/swsa_short_paper-Kalpa.pdf \
 
 ## Entity Summarization Dataset
 
@@ -86,14 +87,14 @@ Paper: https://kalpagunaratna.github.io/swsa_files/swsa_short_paper-Kalpa.pdf
 Code:https://github.com/nju-websoft/ESBM/tree/master/v1.1
 
 #### ESBM Benchmark V.1.2
-Paper: https://arxiv.org/pdf/2003.03734.pdf
+Paper: https://arxiv.org/pdf/2003.03734.pdf \
 Code: https://github.com/nju-websoft/ESBM/tree/master/v1.2
 
 
 # Knowledge Graph Summarization
 
 2020
-VISION-KG: Topic-centric Visualization System for Summarizing Knowledge Graph
+VISION-KG: Topic-centric Visualization System for Summarizing Knowledge Graph \
 Paper: https://dl.acm.org/doi/pdf/10.1145/3336191.3371863
 
 ## References
