@@ -76,6 +76,7 @@ Code: https://github.com/nju-websoft/DRESSED \
 Paper: https://link.springer.com/content/pdf/10.1007%2F978-3-030-49461-2.pdf
 
 Neural Entity Summarization with Joint Encoding and Weak Supervision \
+Code: https://github.com/lijunyou/IJCAI2020 \
 Paper: https://www.ijcai.org/Proceedings/2020/0228.pdf
 
 ## Others 
