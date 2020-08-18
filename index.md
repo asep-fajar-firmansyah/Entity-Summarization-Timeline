@@ -75,6 +75,9 @@ Entity Summarization with User Feedback \
 Code: https://github.com/nju-websoft/DRESSED \
 Paper: https://link.springer.com/content/pdf/10.1007%2F978-3-030-49461-2.pdf
 
+Neural Entity Summarization with Joint Encoding and Weak Supervision \
+Paper: https://www.ijcai.org/Proceedings/2020/0228.pdf
+
 ## Others 
 Semantics-based Entity Summarization \
 Paper: https://kalpagunaratna.github.io/swsa_files/swsa_short_paper-Kalpa.pdf
