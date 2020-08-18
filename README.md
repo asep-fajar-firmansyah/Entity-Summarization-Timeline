@@ -16,3 +16,8 @@ Don't forget to reload .bashrc afterwards:
 ```
 source ~/.bashrc
 ```
+
+## Anaconda
+### 1. Change python versin on anaconda
+To change python version on anaconda, you can follow this instruction on this link:
+https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands

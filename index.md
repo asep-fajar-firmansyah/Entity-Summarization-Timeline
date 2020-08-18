@@ -9,60 +9,92 @@ Entity summarization is a technique to establish short summary (of) RDF data [[2
 Comparing to document summarization where the data is unstructured and there are many frequent words, entity summarization works on RDF that is structured and without frequent terms. 
 Many researchers have been conducted researches on individual entity to produce entity summaries. Generally, there are two categories of entity summarization methods, namely, supervised learning and unsupervised learning. 
 
+## Survey
+2019
+Entity Summarization: State of the Art and Future Challenges
+Paper: https://arxiv.org/abs/1910.08252
+
 ## Unsupervised learning
 
-1. RELIN: RELatedness and Informativeness-based centrality for entity summarizatioN [[3]](#3)
+2010
 
+DIVERSUM: Towards diversified summarisation of entities in knowledge graphs
+Paper: https://sci-hub.tw/10.1109/ICDEW.2010.5452707
+
+2011
+
+RELIN: RELatedness and Informativeness-based centrality for entity summarizatioN [[3]](#3)
 Paper: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.352.7610&rep=rep1&type=pdf
 
-2. REMES: Relatedness-based multi entity summarization
+2015
 
-Paper: https://www.ijcai.org/Proceedings/2017/147
-
-3. FACES: diversity-aware entity summarization using incremental hierarchical conceptual clustering
-
+FACES: diversity-aware entity summarization using incremental hierarchical conceptual clustering
 Paper: https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9562/9233
 
-4. Linksum: Using link analysis to summarize entity data [[6]](#6)
+2016
 
+Linksum: Using link analysis to summarize entity data [[6]](#6)
 Paper: https://www.aifb.kit.edu/images/4/43/LinkSUM.pdf
 
-5. MPSUM: Entity Summarization with Predicate-based Matching
+2017
 
-Paper: https://arxiv.org/abs/2005.11992
+Dynamic Factual Summaries for Entity Cards
+Code: https://github.com/iai-group/DynamicEntitySummarization-DynES
+Paper: https://dl.acm.org/doi/10.1145/3077136.3080810
 
-6. ESLDA: entity summarization using knowledge-based topic modeling
-
+ESLDA: entity summarization using knowledge-based topic modeling
 Paper: https://www.aclweb.org/anthology/I17-1032.pdf
 
-5. DIVERSUM: Towards diversified summarisation of entities in knowledge graphs
+REMES: Relatedness-based multi entity summarization
+Paper: https://www.ijcai.org/Proceedings/2017/147
 
-Paper: 
+2018
+
+Entity Summarization Based on Formal Concept Analysis
+Code: https://github.com/kekeeo/KAFCA \
+Paper: http://semanticweb.kaist.ac.kr/home/images/c/cb/Entity_Summarization_Based_on_Formal_Concept_Analysis.pdf
+
+MPSUM: Entity Summarization with Predicate-based Matching
+Paper: https://arxiv.org/abs/2005.11992
 
 ## Supervised Learning
+2019
 
-1. ESA:Entity Summarization Attention [[2]](#2)
-
+ESA:Entity Summarization Attention [[2]](#2)
 Code: https://github.com/WeiDongjunGabriel/ESA \
 Paper: https://arxiv.org/abs/1905.10625
 
-2. DeepLENS: Deep Learning for Entity Summarization
+2020
 
+DeepLENS: Deep Learning for Entity Summarization
 Code: https://github.com/nju-websoft/DeepLENS \
 Paper: https://arxiv.org/abs/2003.03736
 
-3. Entity Summarization with User Feedback
-
+Entity Summarization with User Feedback
+Code: https://github.com/nju-websoft/DRESSED
 Paper: https://link.springer.com/content/pdf/10.1007%2F978-3-030-49461-2.pdf
+
+## Others 
+Semantics-based Entity Summarization
+Paper: https://kalpagunaratna.github.io/swsa_files/swsa_short_paper-Kalpa.pdf
 
 ## Entity Summarization Dataset
 
 ### ESBM Benchmark 
 
 #### ESBM Benchmark v.1.1
+Code:https://github.com/nju-websoft/ESBM/tree/master/v1.1
 
 #### ESBM Benchmark V.1.2
 Paper: https://arxiv.org/pdf/2003.03734.pdf
+Code: https://github.com/nju-websoft/ESBM/tree/master/v1.2
+
+
+# Knowledge Graph Summarization
+
+2020
+VISION-KG: Topic-centric Visualization System for Summarizing Knowledge Graph
+Paper: https://dl.acm.org/doi/pdf/10.1145/3336191.3371863
 
 ## References
 
