@@ -61,9 +61,9 @@ Paper: https://arxiv.org/abs/2005.11992
 ## Supervised Learning
 **2019**
 
-ESA:Entity Summarization Attention [[2]](#2)
+ESA:Entity Summarization Attention [[2]](#2) \
 Code: https://github.com/WeiDongjunGabriel/ESA \
-Paper: https://arxiv.org/abs/1905.10625 \
+Paper: https://arxiv.org/abs/1905.10625 
 
 **2020**
 
