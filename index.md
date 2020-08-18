@@ -13,7 +13,7 @@ Many researchers have been conducted researches on individual entity to produce 
 **2019**
 
 Entity Summarization: State of the Art and Future Challenges \
-Paper: https://arxiv.org/abs/1910.08252 \
+Paper: https://arxiv.org/abs/1910.08252
 
 ## Unsupervised learning
 
@@ -69,15 +69,15 @@ Paper: https://arxiv.org/abs/1905.10625 \
 
 DeepLENS: Deep Learning for Entity Summarization \
 Code: https://github.com/nju-websoft/DeepLENS \
-Paper: https://arxiv.org/abs/2003.03736 \
+Paper: https://arxiv.org/abs/2003.03736
 
 Entity Summarization with User Feedback \
 Code: https://github.com/nju-websoft/DRESSED \
-Paper: https://link.springer.com/content/pdf/10.1007%2F978-3-030-49461-2.pdf \
+Paper: https://link.springer.com/content/pdf/10.1007%2F978-3-030-49461-2.pdf
 
 ## Others 
 Semantics-based Entity Summarization \
-Paper: https://kalpagunaratna.github.io/swsa_files/swsa_short_paper-Kalpa.pdf \
+Paper: https://kalpagunaratna.github.io/swsa_files/swsa_short_paper-Kalpa.pdf
 
 ## Entity Summarization Dataset
 
