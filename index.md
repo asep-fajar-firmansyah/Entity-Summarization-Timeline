@@ -10,62 +10,62 @@ Comparing to document summarization where the data is unstructured and there are
 Many researchers have been conducted researches on individual entity to produce entity summaries. Generally, there are two categories of entity summarization methods, namely, supervised learning and unsupervised learning. 
 
 ## Survey
-**2019** \
+**2019**
 
 Entity Summarization: State of the Art and Future Challenges \
 Paper: https://arxiv.org/abs/1910.08252 \
 
 ## Unsupervised learning
 
-2010
+**2010**
 
-DIVERSUM: Towards diversified summarisation of entities in knowledge graphs
+DIVERSUM: Towards diversified summarisation of entities in knowledge graphs \
 Paper: https://sci-hub.tw/10.1109/ICDEW.2010.5452707
 
-2011
+**2011**
 
-RELIN: RELatedness and Informativeness-based centrality for entity summarizatioN [[3]](#3)
+RELIN: RELatedness and Informativeness-based centrality for entity summarizatioN [[3]](#3) \
 Paper: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.352.7610&rep=rep1&type=pdf
 
-2015
+**2015**
 
-FACES: diversity-aware entity summarization using incremental hierarchical conceptual clustering
+FACES: diversity-aware entity summarization using incremental hierarchical conceptual clustering \
 Paper: https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9562/9233
 
-2016
+**2016**
 
-Linksum: Using link analysis to summarize entity data [[6]](#6)
+Linksum: Using link analysis to summarize entity data [[6]](#6) \
 Paper: https://www.aifb.kit.edu/images/4/43/LinkSUM.pdf
 
-2017
+**2017**
 
-Dynamic Factual Summaries for Entity Cards
-Code: https://github.com/iai-group/DynamicEntitySummarization-DynES
+Dynamic Factual Summaries for Entity Cards \
+Code: https://github.com/iai-group/DynamicEntitySummarization-DynES \
 Paper: https://dl.acm.org/doi/10.1145/3077136.3080810
 
-ESLDA: entity summarization using knowledge-based topic modeling
+ESLDA: entity summarization using knowledge-based topic modeling \
 Paper: https://www.aclweb.org/anthology/I17-1032.pdf
 
-REMES: Relatedness-based multi entity summarization
+REMES: Relatedness-based multi entity summarization \
 Paper: https://www.ijcai.org/Proceedings/2017/147
 
-2018
+**2018**
 
-Entity Summarization Based on Formal Concept Analysis
+Entity Summarization Based on Formal Concept Analysis \
 Code: https://github.com/kekeeo/KAFCA \
 Paper: http://semanticweb.kaist.ac.kr/home/images/c/cb/Entity_Summarization_Based_on_Formal_Concept_Analysis.pdf
 
-MPSUM: Entity Summarization with Predicate-based Matching
+MPSUM: Entity Summarization with Predicate-based Matching \
 Paper: https://arxiv.org/abs/2005.11992
 
 ## Supervised Learning
-2019
+**2019**
 
 ESA:Entity Summarization Attention [[2]](#2)
 Code: https://github.com/WeiDongjunGabriel/ESA \
 Paper: https://arxiv.org/abs/1905.10625 \
 
-2020
+**2020**
 
 DeepLENS: Deep Learning for Entity Summarization \
 Code: https://github.com/nju-websoft/DeepLENS \
