@@ -13,7 +13,7 @@ Many researchers have been conducted researches on individual entity to produce 
 **2021**
 
 Entity Summarization: State of the Art and Future Challenges \
-Paper: https://github.com/asep-fajar-firmansyah/Entity-Summarization-Timeline.git
+Paper: https://www.sciencedirect.com/science/article/abs/pii/S1570826821000226
 
 ## Unsupervised learning
 
@@ -81,7 +81,7 @@ Code: https://github.com/lijunyou/IJCAI2020 \
 Paper: https://www.ijcai.org/Proceedings/2020/0228.pdf
 
 AutoSUM: Automating Feature Extraction and Multi-user Preference for Entity Summarization \
-Code: https://github.com/WeiDongjunGabriel/AutoSUM
+Code: https://github.com/WeiDongjunGabriel/AutoSUM \
 Paper: https://link.springer.com/chapter/10.1007%2F978-3-030-47436-2_44
 
 ## Others 
