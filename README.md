@@ -98,7 +98,6 @@ Paper: https://link.springer.com/chapter/10.1007/978-3-030-49461-2_32
 Code:https://github.com/nju-websoft/ESBM/tree/master/v1.1
 
 #### ESBM Benchmark V.1.2
-Paper: https://arxiv.org/pdf/2003.03734.pdf \
 Code: https://github.com/nju-websoft/ESBM/tree/master/v1.2
 
 
