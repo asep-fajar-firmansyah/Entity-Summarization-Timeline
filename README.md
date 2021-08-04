@@ -10,10 +10,10 @@ Comparing to document summarization where the data is unstructured and there are
 Many researchers have been conducted researches on individual entity to produce entity summaries. Generally, there are two categories of entity summarization methods, namely, supervised learning and unsupervised learning. 
 
 ## Survey
-**2019**
+**2021**
 
 Entity Summarization: State of the Art and Future Challenges \
-Paper: https://arxiv.org/abs/1910.08252
+Paper: https://github.com/asep-fajar-firmansyah/Entity-Summarization-Timeline.git
 
 ## Unsupervised learning
 
@@ -56,6 +56,7 @@ Code: https://github.com/kekeeo/KAFCA \
 Paper: http://semanticweb.kaist.ac.kr/home/images/c/cb/Entity_Summarization_Based_on_Formal_Concept_Analysis.pdf
 
 MPSUM: Entity Summarization with Predicate-based Matching \
+Code: https://github.com/WeiDongjunGabriel/MPSUM.git
 Paper: https://arxiv.org/abs/2005.11992
 
 ## Supervised Learning
@@ -79,6 +80,10 @@ Neural Entity Summarization with Joint Encoding and Weak Supervision \
 Code: https://github.com/lijunyou/IJCAI2020 \
 Paper: https://www.ijcai.org/Proceedings/2020/0228.pdf
 
+AutoSUM: Automating Feature Extraction and Multi-user Preference for Entity Summarization \
+Code: https://github.com/WeiDongjunGabriel/AutoSUM
+Paper: https://link.springer.com/chapter/10.1007%2F978-3-030-47436-2_44
+
 ## Others 
 Semantics-based Entity Summarization \
 Paper: https://kalpagunaratna.github.io/swsa_files/swsa_short_paper-Kalpa.pdf
@@ -86,6 +91,8 @@ Paper: https://kalpagunaratna.github.io/swsa_files/swsa_short_paper-Kalpa.pdf
 ## Entity Summarization Dataset
 
 ### ESBM Benchmark 
+2020 \
+Paper: https://link.springer.com/chapter/10.1007/978-3-030-49461-2_32
 
 #### ESBM Benchmark v.1.1
 Code:https://github.com/nju-websoft/ESBM/tree/master/v1.1
