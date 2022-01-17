@@ -84,6 +84,11 @@ AutoSUM: Automating Feature Extraction and Multi-user Preference for Entity Summ
 Code: https://github.com/WeiDongjunGabriel/AutoSUM \
 Paper: https://link.springer.com/chapter/10.1007%2F978-3-030-47436-2_44
 
+**2021**
+GATES: Graph Attention Networks for Entity Summarization
+Code: https://github.com/dice-group/GATES
+Paper: https://dl.acm.org/doi/10.1145/3460210.3493574
+
 ## Others 
 Semantics-based Entity Summarization \
 Paper: https://kalpagunaratna.github.io/swsa_files/swsa_short_paper-Kalpa.pdf
@@ -91,7 +96,7 @@ Paper: https://kalpagunaratna.github.io/swsa_files/swsa_short_paper-Kalpa.pdf
 ## Entity Summarization Dataset
 
 ### ESBM Benchmark 
-2020 \
+2020
 Paper: https://link.springer.com/chapter/10.1007/978-3-030-49461-2_32
 
 #### ESBM Benchmark v.1.1
