@@ -55,6 +55,9 @@ Entity Summarization Based on Formal Concept Analysis \
 Code: https://github.com/kekeeo/KAFCA \
 Paper: http://semanticweb.kaist.ac.kr/home/images/c/cb/Entity_Summarization_Based_on_Formal_Concept_Analysis.pdf
 
+BAFREC: Balancing Frequency and Rarity for Entity Characterization in Open Linked Data
+Paper: http://www.ifis.cs.tu-bs.de/sites/default/files/eyre2018-kroll-BAFREC-camera-ready.pdf
+
 MPSUM: Entity Summarization with Predicate-based Matching \
 Code: https://github.com/WeiDongjunGabriel/MPSUM.git
 Paper: https://arxiv.org/abs/2005.11992
