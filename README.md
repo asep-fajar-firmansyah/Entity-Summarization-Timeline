@@ -59,6 +59,11 @@ MPSUM: Entity Summarization with Predicate-based Matching \
 Code: https://github.com/WeiDongjunGabriel/MPSUM.git
 Paper: https://arxiv.org/abs/2005.11992
 
+**2021**
+
+Incremental Entity Summarization with Formal Concept Analysis
+Paper: https://ieeexplore.ieee.org/document/9459533
+
 ## Supervised Learning
 **2019**
 
