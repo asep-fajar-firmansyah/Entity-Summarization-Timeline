@@ -58,19 +58,19 @@ Paper: http://semanticweb.kaist.ac.kr/home/images/c/cb/Entity_Summarization_Base
 BAFREC: Balancing Frequency and Rarity for Entity Characterization in Open Linked Data \
 Paper: http://www.ifis.cs.tu-bs.de/sites/default/files/eyre2018-kroll-BAFREC-camera-ready.pdf
 
-Combining Word Embedding and Knowledge-Based Topic Modeling for Entity Summarization
+Combining Word Embedding and Knowledge-Based Topic Modeling for Entity Summarization \
 Paper: https://ieeexplore.ieee.org/document/8334467
 
 MPSUM: Entity Summarization with Predicate-based Matching \
 Code: https://github.com/WeiDongjunGabriel/MPSUM.git \
 Paper: https://arxiv.org/abs/2005.11992
 
-PageRank and Generic EntitySummarization for RDF Knowledge Bases
+PageRank and Generic EntitySummarization for RDF Knowledge Bases \
 Paper: https://link.springer.com/chapter/10.1007/978-3-319-93417-4_10
 
 **2020**
 
-Entity Summarization in Fuzzy Knowledge Graph Based on Fuzzy Concept Analysis
+Entity Summarization in Fuzzy Knowledge Graph Based on Fuzzy Concept Analysis \
 Paper: https://link.springer.com/chapter/10.1007/978-981-15-9309-3_3
 
 **2021**
