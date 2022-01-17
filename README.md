@@ -86,8 +86,8 @@ Paper: https://link.springer.com/chapter/10.1007%2F978-3-030-47436-2_44
 
 **2021**
 
-GATES: Graph Attention Networks for Entity Summarization
-Code: https://github.com/dice-group/GATES
+GATES: Graph Attention Networks for Entity Summarization \
+Code: https://github.com/dice-group/GATES \
 Paper: https://dl.acm.org/doi/10.1145/3460210.3493574
 
 ## Others 
