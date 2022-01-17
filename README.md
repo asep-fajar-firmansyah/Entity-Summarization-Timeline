@@ -59,7 +59,7 @@ BAFREC: Balancing Frequency and Rarity for Entity Characterization in Open Linke
 Paper: http://www.ifis.cs.tu-bs.de/sites/default/files/eyre2018-kroll-BAFREC-camera-ready.pdf
 
 MPSUM: Entity Summarization with Predicate-based Matching \
-Code: https://github.com/WeiDongjunGabriel/MPSUM.git \ 
+Code: https://github.com/WeiDongjunGabriel/MPSUM.git \
 Paper: https://arxiv.org/abs/2005.11992
 
 **2021**
