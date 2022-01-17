@@ -113,9 +113,6 @@ Code: https://github.com/nju-websoft/ESBM/tree/master/v1.2
 VISION-KG: Topic-centric Visualization System for Summarizing Knowledge Graph \
 Paper: https://dl.acm.org/doi/pdf/10.1145/3336191.3371863
 
-# Presentation
-
-1. Entity Summarization: Where We Are and What Lies Ahead [https://eeke-workshop.github.io/2021/slides/EEKE-2021-Keynote-entity-summarization.pdf]
 
 ## References
 
