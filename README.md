@@ -62,6 +62,11 @@ MPSUM: Entity Summarization with Predicate-based Matching \
 Code: https://github.com/WeiDongjunGabriel/MPSUM.git \
 Paper: https://arxiv.org/abs/2005.11992
 
+**2020**
+
+Entity Summarization in Fuzzy Knowledge Graph Based on Fuzzy Concept Analysis
+Paper: https://link.springer.com/chapter/10.1007/978-981-15-9309-3_3
+
 **2021**
 
 Incremental Entity Summarization with Formal Concept Analysis \
