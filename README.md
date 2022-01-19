@@ -78,6 +78,9 @@ Paper: https://link.springer.com/chapter/10.1007/978-981-15-9309-3_3
 Incremental Entity Summarization with Formal Concept Analysis \
 Paper: https://ieeexplore.ieee.org/document/9459533
 
+Entity Summarization in Fuzzy Knowledge Graph Based on Fuzzy Concept Analysis\
+Paper: https://link.springer.com/chapter/10.1007%2F978-981-15-9309-3_3
+
 ## Supervised Learning
 **2019**
 
