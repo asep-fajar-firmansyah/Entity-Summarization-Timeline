@@ -113,6 +113,7 @@ Code: https://github.com/dice-group/GATES \
 Paper: https://dl.acm.org/doi/10.1145/3460210.3493574
 
 **2022**
+
 ESCS: Entity Summarization via Exploiting Description Complementary and Salience
 Paper: https://ieeexplore.ieee.org/document/9718581
 
