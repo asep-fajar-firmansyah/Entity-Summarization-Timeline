@@ -132,6 +132,9 @@ Code:https://github.com/nju-websoft/ESBM/tree/master/v1.1
 #### ESBM Benchmark V.1.2
 Code: https://github.com/nju-websoft/ESBM/tree/master/v1.2
 
+### FACES Dataset
+Source: https://github.com/dice-group/GATES/tree/main/data/FACES
+
 
 # Knowledge Graph Summarization
 
