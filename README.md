@@ -153,10 +153,12 @@ Resources: https://zenodo.org/records/7441120
 # Knowledge Graph Summarization
 
 **2020**
+
 VISION-KG: Topic-centric Visualization System for Summarizing Knowledge Graph \
 Paper: https://dl.acm.org/doi/pdf/10.1145/3336191.3371863
 
 **2024** 
+
 A Survey on Extractive Knowledge Graph Summarization: Applications, Approaches, Evaluation, and Future Directions \
 Paper:https://arxiv.org/abs/2402.12001
 
