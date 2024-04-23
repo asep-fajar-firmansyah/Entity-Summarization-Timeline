@@ -1,6 +1,7 @@
 # Entity Summarization
 
-## Shortly brief of entity summarization
+## Extractive Entity Summarization
+### Shortly brief of entity summarization
 
 Based on the distributed RDF dataset statistics, more than 10.000 datasets are following Semantic Web standards. 
 It provides a billion triples (RDF data) that are used by many applications to provide information to the human. 
@@ -9,13 +10,13 @@ Entity summarization is a technique to establish short summary (of) RDF data [[2
 Comparing to document summarization where the data is unstructured and there are many frequent words, entity summarization works on RDF that is structured and without frequent terms. 
 Many researchers have been conducted researches on individual entity to produce entity summaries. Generally, there are two categories of entity summarization methods, namely, supervised learning and unsupervised learning. 
 
-## Survey
+### Survey
 **2021**
 
 Entity Summarization: State of the Art and Future Challenges \
 Paper: https://www.sciencedirect.com/science/article/abs/pii/S1570826821000226
 
-## Unsupervised learning
+### Unsupervised learning
 
 **2010**
 
@@ -49,6 +50,9 @@ Paper: https://www.aclweb.org/anthology/I17-1032.pdf
 REMES: Relatedness-based multi entity summarization \
 Paper: https://www.ijcai.org/Proceedings/2017/147
 
+Semantics-based Entity Summarization \
+Paper: https://kalpagunaratna.github.io/swsa_files/swsa_short_paper-Kalpa.pdf
+
 **2018**
 
 Entity Summarization Based on Formal Concept Analysis \
@@ -81,7 +85,7 @@ Paper: https://ieeexplore.ieee.org/document/9459533
 Entity Summarization in Fuzzy Knowledge Graph Based on Fuzzy Concept Analysis\
 Paper: https://link.springer.com/chapter/10.1007%2F978-981-15-9309-3_3
 
-## Supervised Learning
+### Supervised Learning
 **2019**
 
 ESA:Entity Summarization Attention [[2]](#2) \
@@ -112,16 +116,18 @@ GATES: Graph Attention Networks for Entity Summarization \
 Code: https://github.com/dice-group/GATES \
 Paper: https://dl.acm.org/doi/10.1145/3460210.3493574
 
-**2022**
+**2023**
 
 ESCS: Entity Summarization via Exploiting Description Complementary and Salience \
 Paper: https://ieeexplore.ieee.org/document/9718581
 
-## Others 
-Semantics-based Entity Summarization \
-Paper: https://kalpagunaratna.github.io/swsa_files/swsa_short_paper-Kalpa.pdf
+**2024**
+ESLM: Improving Entity Summarization by Leveraging Language Models \
+Code: https://github.com/dice-group/ESLM \
+Paper: https://papers.dice-research.org/2024/ESWC_ESLM/public.pdf
 
-## Entity Summarization Dataset
+
+### Datasets
 
 ### ESBM Benchmark 
 2020
@@ -136,13 +142,22 @@ Code: https://github.com/nju-websoft/ESBM/tree/master/v1.2
 ### FACES Dataset
 Source: https://github.com/dice-group/GATES/tree/main/data/FACES
 
+## Abstractive Entity Summarization
+
+### Datasets
+Using Pre-trained Language Models for Abstractive DBPEDIA Summarization: A Comparative Study \
+Paper: https://papers.dice-research.org/2023/SEMANTICS_LLM_DBpedia/main_public.pdf \
+Resources: https://zenodo.org/records/7441120
 
 # Knowledge Graph Summarization
 
-2020
+**2020**
 VISION-KG: Topic-centric Visualization System for Summarizing Knowledge Graph \
 Paper: https://dl.acm.org/doi/pdf/10.1145/3336191.3371863
 
+**2024** 
+A Survey on Extractive Knowledge Graph Summarization: Applications, Approaches, Evaluation, and Future Directions \
+Paper:https://arxiv.org/abs/2402.12001
 
 ## References
 
