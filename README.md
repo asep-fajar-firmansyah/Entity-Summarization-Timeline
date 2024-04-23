@@ -47,8 +47,6 @@ Paper: https://dl.acm.org/doi/10.1145/3077136.3080810
 ESLDA: entity summarization using knowledge-based topic modeling \
 Paper: https://www.aclweb.org/anthology/I17-1032.pdf
 
-REMES: Relatedness-based multi entity summarization \
-Paper: https://www.ijcai.org/Proceedings/2017/147
 
 Semantics-based Entity Summarization \
 Paper: https://kalpagunaratna.github.io/swsa_files/swsa_short_paper-Kalpa.pdf
@@ -142,6 +140,18 @@ Code: https://github.com/nju-websoft/ESBM/tree/master/v1.2
 
 ### FACES Dataset
 Source: https://github.com/dice-group/GATES/tree/main/data/FACES
+
+## Multi-Entity Summarization
+
+### Extractive Multi Entity Summarization
+
+**2017**
+
+REMES: Relatedness-based multi entity summarization \
+Paper: https://www.ijcai.org/Proceedings/2017/147
+
+Micro-review synthesis for multi-entity summarization \
+Paper: https://link.springer.com/article/10.1007/s10618-017-0491-4 
 
 ## Abstractive Entity Summarization
 
