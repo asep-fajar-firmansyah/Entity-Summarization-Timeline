@@ -122,6 +122,7 @@ ESCS: Entity Summarization via Exploiting Description Complementary and Salience
 Paper: https://ieeexplore.ieee.org/document/9718581
 
 **2024**
+
 ESLM: Improving Entity Summarization by Leveraging Language Models \
 Code: https://github.com/dice-group/ESLM \
 Paper: https://papers.dice-research.org/2024/ESWC_ESLM/public.pdf
