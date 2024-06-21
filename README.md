@@ -126,20 +126,28 @@ Code: https://github.com/dice-group/ESLM \
 Paper: https://papers.dice-research.org/2024/ESWC_ESLM/public.pdf
 
 
-### Datasets
+### Benchmark Datasets
 
 ### ESBM Benchmark 
 2020
 Paper: https://link.springer.com/chapter/10.1007/978-3-030-49461-2_32
 
 #### ESBM Benchmark v.1.1
-Code:https://github.com/nju-websoft/ESBM/tree/master/v1.1
+Code: https://github.com/nju-websoft/ESBM/tree/master/v1.1
 
 #### ESBM Benchmark V.1.2
 Code: https://github.com/nju-websoft/ESBM/tree/master/v1.2
 
 ### FACES Dataset
+Original source: http://wiki.knoesis.org/index.php/FACES \
+Backup of original source: https://files.dice-research.org/users/asep/datasets/entity-summarization/original_faces_dataset.zip \
 Source: https://github.com/dice-group/GATES/tree/main/data/FACES
+
+### Wiki Entity Summarization Benchmark
+2024 \
+Paper: https://arxiv.org/abs/2406.08435 \
+Code: https://github.com/msorkhpar/wiki-entity-summarization \
+Toolkit: https://github.com/msorkhpar/wiki-entity-summarization-toolkit \
 
 ## Multi-Entity Summarization
 
