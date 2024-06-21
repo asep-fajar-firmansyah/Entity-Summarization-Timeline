@@ -147,7 +147,7 @@ Source: https://github.com/dice-group/GATES/tree/main/data/FACES
 2024 \
 Paper: https://arxiv.org/abs/2406.08435 \
 Code: https://github.com/msorkhpar/wiki-entity-summarization \
-Toolkit: https://github.com/msorkhpar/wiki-entity-summarization-toolkit \
+Toolkit: https://github.com/msorkhpar/wiki-entity-summarization-toolkit 
 
 ## Multi-Entity Summarization
 
